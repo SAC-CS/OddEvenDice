@@ -81,4 +81,5 @@ public class MidTermP2 {
    }
 }
 
+// Can you please provide the descrption and intended usage of the player class?
 
